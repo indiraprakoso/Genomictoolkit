@@ -14,9 +14,3 @@ print(test_dna.gc_content())
 print(test_dna.gc_content_subsec())
 print(test_dna.translate_seq())
 print(test_dna.codon_usage('A'))
-
-for rf in test_dna.gen_reading_frames():
-    print(rf)
-
-
-print(test_dna.all_proteins_from_orfs())

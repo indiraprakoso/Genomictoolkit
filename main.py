@@ -1,4 +1,4 @@
-# DNA Toolset/Code testing file
+# Genomic Toolkit/Code testing file
 
 from bio_seq import bio_seq
 from utilities import read_FASTA, readTextFile, writeTextFile
